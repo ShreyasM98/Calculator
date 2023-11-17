@@ -1,0 +1,18 @@
+{
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "comment", // Change comment color
+                    "comment.block.documentation", // Optionally, change documentation comments color
+                    "comment.block", // Optionally, change block comments color
+                    "punctuation.definition.comment" // Optionally, change comment punctuation color
+                ],
+                "settings": {
+                    "foreground": "#d8ef0c" // Purple color code
+                }
+            }
+        ]
+    }
+    
+}
